@@ -1,0 +1,73 @@
+[
+    {
+        "model": "players.player",
+        "pk": 1,
+        "fields": {
+            "created_at": "2019-03-06T22:14:58.660Z",
+            "updated_at": "2019-03-08T10:56:37.981Z",
+            "name": "Player 1",
+            "deck": [
+                3,
+                33,
+                36,
+                22,
+                25
+            ],
+            "hand": [
+                1,
+                10
+            ]
+        }
+    },
+    {
+        "model": "players.player",
+        "pk": 2,
+        "fields": {
+            "created_at": "2019-03-06T22:15:02.870Z",
+            "updated_at": "2019-03-08T10:56:37.987Z",
+            "name": "Player 2",
+            "deck": [
+                6,
+                27,
+                34,
+                19,
+                20
+            ],
+            "hand": [
+                16,
+                24
+            ]
+        }
+    },
+    {
+        "model": "players.player",
+        "pk": 3,
+        "fields": {
+            "created_at": "2019-03-06T22:15:07.501Z",
+            "updated_at": "2019-03-08T10:56:37.993Z",
+            "name": "Player 3",
+            "deck": [
+                2,
+                4,
+                7,
+                9,
+                18
+            ],
+            "hand": [
+                30,
+                14
+            ]
+        }
+    },
+    {
+        "model": "players.player",
+        "pk": 4,
+        "fields": {
+            "created_at": "2019-03-07T20:07:32.817Z",
+            "updated_at": "2019-03-07T20:07:32.817Z",
+            "name": "batata",
+            "deck": [],
+            "hand": []
+        }
+    }
+]

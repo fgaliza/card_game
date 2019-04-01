@@ -1,0 +1,372 @@
+[
+    {
+        "model": "cards.card",
+        "pk": 1,
+        "fields": {
+            "created_at": "2019-03-06T22:19:52.469Z",
+            "updated_at": "2019-03-06T22:19:52.469Z",
+            "name": "A",
+            "power": "10.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 2,
+        "fields": {
+            "created_at": "2019-03-06T22:20:03.294Z",
+            "updated_at": "2019-03-06T22:20:03.294Z",
+            "name": "B",
+            "power": "20.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 3,
+        "fields": {
+            "created_at": "2019-03-06T22:20:07.030Z",
+            "updated_at": "2019-03-06T22:20:07.030Z",
+            "name": "C",
+            "power": "30.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 4,
+        "fields": {
+            "created_at": "2019-03-06T22:20:12.208Z",
+            "updated_at": "2019-03-06T22:20:12.208Z",
+            "name": "D",
+            "power": "40.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 5,
+        "fields": {
+            "created_at": "2019-03-06T22:20:19.151Z",
+            "updated_at": "2019-03-06T22:20:19.151Z",
+            "name": "E",
+            "power": "50.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 6,
+        "fields": {
+            "created_at": "2019-03-06T22:20:25.240Z",
+            "updated_at": "2019-03-06T22:20:25.241Z",
+            "name": "F",
+            "power": "60.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 7,
+        "fields": {
+            "created_at": "2019-03-06T22:20:33.501Z",
+            "updated_at": "2019-03-06T22:20:33.501Z",
+            "name": "G",
+            "power": "70.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 8,
+        "fields": {
+            "created_at": "2019-03-06T22:20:39.941Z",
+            "updated_at": "2019-03-06T22:20:39.941Z",
+            "name": "H",
+            "power": "80.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 9,
+        "fields": {
+            "created_at": "2019-03-06T22:20:47.263Z",
+            "updated_at": "2019-03-06T22:20:47.263Z",
+            "name": "I",
+            "power": "90.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 10,
+        "fields": {
+            "created_at": "2019-03-06T22:20:59.381Z",
+            "updated_at": "2019-03-06T22:20:59.381Z",
+            "name": "J",
+            "power": "100.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 11,
+        "fields": {
+            "created_at": "2019-03-07T01:19:04.626Z",
+            "updated_at": "2019-03-07T01:19:04.626Z",
+            "name": "K",
+            "power": "110.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 12,
+        "fields": {
+            "created_at": "2019-03-07T01:19:10.234Z",
+            "updated_at": "2019-03-07T01:19:10.234Z",
+            "name": "L",
+            "power": "120.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 13,
+        "fields": {
+            "created_at": "2019-03-07T01:19:15.568Z",
+            "updated_at": "2019-03-07T01:19:15.568Z",
+            "name": "M",
+            "power": "130.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 14,
+        "fields": {
+            "created_at": "2019-03-07T01:19:20.608Z",
+            "updated_at": "2019-03-07T01:19:20.608Z",
+            "name": "O",
+            "power": "130.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 15,
+        "fields": {
+            "created_at": "2019-03-07T01:19:23.702Z",
+            "updated_at": "2019-03-07T01:19:23.702Z",
+            "name": "P",
+            "power": "130.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 16,
+        "fields": {
+            "created_at": "2019-03-07T01:19:29.108Z",
+            "updated_at": "2019-03-07T01:19:29.109Z",
+            "name": "Q",
+            "power": "150.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 17,
+        "fields": {
+            "created_at": "2019-03-07T01:19:34.325Z",
+            "updated_at": "2019-03-07T01:19:34.325Z",
+            "name": "R",
+            "power": "160.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 18,
+        "fields": {
+            "created_at": "2019-03-07T01:19:39.028Z",
+            "updated_at": "2019-03-07T01:19:39.028Z",
+            "name": "S",
+            "power": "170.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 19,
+        "fields": {
+            "created_at": "2019-03-07T01:19:47.169Z",
+            "updated_at": "2019-03-07T01:19:47.170Z",
+            "name": "T",
+            "power": "180.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 20,
+        "fields": {
+            "created_at": "2019-03-07T01:19:53.229Z",
+            "updated_at": "2019-03-07T01:19:53.229Z",
+            "name": "U",
+            "power": "180.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 21,
+        "fields": {
+            "created_at": "2019-03-07T01:19:58.268Z",
+            "updated_at": "2019-03-07T01:19:58.268Z",
+            "name": "V",
+            "power": "190.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 22,
+        "fields": {
+            "created_at": "2019-03-07T01:20:00.709Z",
+            "updated_at": "2019-03-07T01:20:00.709Z",
+            "name": "W",
+            "power": "190.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 23,
+        "fields": {
+            "created_at": "2019-03-07T01:20:05.152Z",
+            "updated_at": "2019-03-07T01:20:05.152Z",
+            "name": "X",
+            "power": "190.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 24,
+        "fields": {
+            "created_at": "2019-03-07T01:20:08.571Z",
+            "updated_at": "2019-03-07T01:20:08.571Z",
+            "name": "Y",
+            "power": "190.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 25,
+        "fields": {
+            "created_at": "2019-03-07T01:20:17.430Z",
+            "updated_at": "2019-03-07T01:20:17.430Z",
+            "name": "Z",
+            "power": "200.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 26,
+        "fields": {
+            "created_at": "2019-03-08T04:30:11.446Z",
+            "updated_at": "2019-03-08T04:30:11.446Z",
+            "name": "King",
+            "power": "100.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 27,
+        "fields": {
+            "created_at": "2019-03-08T04:30:16.018Z",
+            "updated_at": "2019-03-08T04:30:16.018Z",
+            "name": "King1",
+            "power": "100.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 28,
+        "fields": {
+            "created_at": "2019-03-08T04:30:19.285Z",
+            "updated_at": "2019-03-08T04:30:19.285Z",
+            "name": "King2",
+            "power": "100.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 29,
+        "fields": {
+            "created_at": "2019-03-08T04:30:22.749Z",
+            "updated_at": "2019-03-08T04:30:22.749Z",
+            "name": "King3",
+            "power": "100.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 30,
+        "fields": {
+            "created_at": "2019-03-08T04:30:26.065Z",
+            "updated_at": "2019-03-08T04:30:26.065Z",
+            "name": "King4",
+            "power": "100.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 31,
+        "fields": {
+            "created_at": "2019-03-08T04:30:29.991Z",
+            "updated_at": "2019-03-08T04:30:29.991Z",
+            "name": "King5",
+            "power": "100.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 32,
+        "fields": {
+            "created_at": "2019-03-08T04:30:33.678Z",
+            "updated_at": "2019-03-08T04:30:33.678Z",
+            "name": "King6",
+            "power": "100.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 33,
+        "fields": {
+            "created_at": "2019-03-08T04:30:47.829Z",
+            "updated_at": "2019-03-08T04:30:47.829Z",
+            "name": "King7",
+            "power": "100.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 34,
+        "fields": {
+            "created_at": "2019-03-08T04:30:51.677Z",
+            "updated_at": "2019-03-08T04:30:51.677Z",
+            "name": "King8",
+            "power": "100.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 35,
+        "fields": {
+            "created_at": "2019-03-08T04:30:55.697Z",
+            "updated_at": "2019-03-08T04:30:55.697Z",
+            "name": "King9",
+            "power": "100.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 36,
+        "fields": {
+            "created_at": "2019-03-08T04:31:04.288Z",
+            "updated_at": "2019-03-08T04:31:04.288Z",
+            "name": "King10",
+            "power": "100.00"
+        }
+    },
+    {
+        "model": "cards.card",
+        "pk": 37,
+        "fields": {
+            "created_at": "2019-03-08T04:31:08.993Z",
+            "updated_at": "2019-03-08T04:31:08.993Z",
+            "name": "King11",
+            "power": "100.00"
+        }
+    }
+]
